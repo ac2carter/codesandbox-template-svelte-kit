@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>FirstPage</title>
 </svelte:head>
 
 <section>
@@ -19,11 +19,11 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		to my new<br />AcMfnCarter App
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		try me <strong>IF YA WANT TO</strong>
 	</h2>
 
 	<Counter />
