@@ -22,20 +22,19 @@
 	<h1>About this app</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a>
+		This is an opportunity of a <a href="/todos">Lifetime</a>
 	</p>
 
 	<!-- TODO lose the @next! -->
-	<pre>npm init svelte@next</pre>
+	<pre>FWM @ac_mfn_carter/insta</pre>
 
 	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
+		The page you're looking at is purely static HTML, with no playa hatta activity needed.
 		Because of that, we don't need to load any JavaScript. Try viewing these nuts in ya mouth
 	</p>
 
 	<p>
-		The <a href="/todos">TO-Dos</a> page illustrates SvelteKit's data loading and form handling. Try using
-		it with JavaScript disabled!
+		The <a href="/todos">TO-Dos</a> page illustrates the pimpin game,confidence loading and whore handling. Try dating a womean in 2022 without it, your "game" will be........disabled!
 	</p>
 </div>
 

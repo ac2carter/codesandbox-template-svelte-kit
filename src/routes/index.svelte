@@ -5,23 +5,19 @@
 <script lang="ts">
 	import Counter from '$lib/Counter.svelte';
 </script>
-
-<svelte:head>
-	<title>FirstPage</title>
-</svelte:head>
-
+<head>
+	<title>PageOneHoe</title>
+</head>
 <section>
 	<h1>
-		<div class="welcome">
+	<div class="welcome">
 			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
+		<source srcset="svelte-welcome.webp" type="image/webp" />
 				<img src="svelte-welcome.png" alt="Welcome" />
 			</picture>
 		</div>
-
-		to my new<br />AcMfnCarter App
-	</h1>
-
+		</h1>
+Learn new inovations and strategies to get money through the power of suggestion in my new<br />AcMfnCarter App
 	<h2>
 		try me <strong>IF YA WANT TO</strong>
 	</h2>
@@ -30,25 +26,20 @@
 </section>
 
 <style>
-	section {
+.section{
 		display: flex;
-		flex-direction: column;
+		flex-direction: column;color;
 		justify-content: center;
 		align-items: center;
-		flex: 1;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
+		flex: 1;	}
+		h1 {
+		width: 100%;}
 	.welcome {
 		position: relative;
 		width: 100%;
 		height: 0;
 		padding: 0 0 calc(100% * 495 / 2048) 0;
 	}
-
 	.welcome img {
 		position: absolute;
 		width: 100%;

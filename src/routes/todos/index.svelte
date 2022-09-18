@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>Todos</title>
+	<title>To-Do</title>
 </svelte:head>
 
 <div class="todos">
